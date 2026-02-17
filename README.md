@@ -36,4 +36,5 @@ This repository contains my solutions to the **GeeksforGeeks Problem of the Day 
 ---
 
 ✨ *Consistency > Perfection*
+Added solution for GFG POTD - Maximum Overlapping Intervals
 
